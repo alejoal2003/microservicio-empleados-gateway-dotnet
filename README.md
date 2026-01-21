@@ -45,7 +45,7 @@ TallerMicroservicios/
 - Acceso denegado sin token
 
 ## Autor
-- [Tu Nombre]
+- Alejandro Alvarez
 
 ---
 
